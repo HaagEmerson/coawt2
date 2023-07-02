@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env bash
 
-UUID=${UUID:-'/trojan?ed2048'}
+UUID=${UUID:-'/787979b1-ff08-4f9f-81d3-7e32105efa14'}
 VMESS_WSPATH=${VMESS_WSPATH:-'/787979b1-ff08-4f9f-81d3-7e32105efa14-vmess'}
-VLESS_WSPATH=${VLESS_WSPATH:-'/trojan?ed2048'}
+VLESS_WSPATH=${VLESS_WSPATH:-'/787979b1-ff08-4f9f-81d3-7e32105efa14'}
 TROJAN_WSPATH=${TROJAN_WSPATH:-'/trojan?ed2048'}
 SS_WSPATH=${SS_WSPATH:-'/787979b1-ff08-4f9f-81d3-7e32105efa14-shadowsocks'}
 
